@@ -7,4 +7,4 @@ for x,y in dic.items():
     if(y>maxer):
         ans = x
         maxer = y
-print(ans)
+print(maxer)
